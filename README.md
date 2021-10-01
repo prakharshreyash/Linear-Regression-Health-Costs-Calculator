@@ -1,6 +1,6 @@
 # Linear-Regression-Health-Costs-Calculator
 
--> To predict healthcare costs using a regression algorithm.
+-> To predict the healthcare costs using a linear regression algorithm.
 
 # Project Description: 
 
